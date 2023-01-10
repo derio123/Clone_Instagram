@@ -21,7 +21,7 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - Lancando no LiveServer
 <div align='center'>
   <div>
-    <img height='300px' width='auto' src='img/live.png'>
+    <img height='300px' width='auto' src='img/Live.png'>
   </div>
 <div> 
 
