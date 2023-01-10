@@ -4,7 +4,7 @@ Esse é o repositório é clone do instagram onde é imprementado a interface de
 
 <div align='center'>
   <div>
-    <img height='300px' width='auto' src='instagram.png'/>
+    <img height='300px' width='auto' src='img/instagram.png'/>
   </div>
 </div>
 ### O que foi usado no código:
