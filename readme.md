@@ -2,6 +2,11 @@
 
 Esse é o repositório é clone do instagram onde é imprementado a interface de login do Instagram! 
 
+<div align='center'>
+  <div>
+    <img height='300px' width='auto' src='instagram.png'/>
+  </div>
+</div>
 ### O que foi usado no código:
 
 * O clone tem diferenças no layout para dá uma cara diferente.
